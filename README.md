@@ -4,7 +4,7 @@ Without further ado, let me shortly explain my project.
 Name of the project is CoronaCroatia. It is programmed in Python code using PyCharm. Application is showing data about Covid-19 in Croatia.
 Application is taking JSON data from official Croatian Covid-19 website. 
 
-After application is being started, tkinter window pop out:
+After application is being started, tkinter window opens:
 
 ![alt text](https://user-images.githubusercontent.com/68998449/149681538-ae8647fa-4b69-4f81-9cf2-a2200d02ee5d.png)
 
